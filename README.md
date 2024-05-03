@@ -11,7 +11,7 @@ In the "Forecasting-Stocks-ARIMA" project, we apply ARIMA to forecast the price 
 
 Both projects demonstrate the practical application of ARIMA in different forecasting contexts, offering valuable insights for time series analysis.
 
-# Autor
+# Author
 Julio Cesar Yamashita Martins
 
 # E-mail
